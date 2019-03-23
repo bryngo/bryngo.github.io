@@ -1,16 +1,17 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Course Hero
+  link: https://www.coursehero.com/
+#  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Start September 2019
+  job: Incoming New Grad SWE
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Course Hero
+  link: https://www.coursehero.com/
+  date: June 2018 - September 2018
+  job: Software Engineer Intern
 
-- name: SAP
+- name: Genentech
   link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+  date: June 2017 - September 2017
+  job: Biologics Drug Substance Manufacturing IT Intern

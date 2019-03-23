@@ -1,4 +1,9 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+- name: Content-Aware Image Resizer
+  descr: <b>Skills / Tools </b>- MATLAB<ul><li>Implemented a dynamic programming version of the content-aware image resizing technique described in Shai Avidan and Ariel Shamir’s SIGGRAPH 2007 paper, “Seam Carving for Content-Aware Image Resizing”</li><li>Source code available upon request</li></ul>
+  skills: Matlab
+#  image: ../../img/avatar.jpg
+#  github: https://github.com/renyuanz/leonids
+
+- name: Travel Buddy
+  descr: <b>Skills / Tools </b>- Python, Jinja<ul><li>Used the Google Vision, Google Maps, and Wikipedia API to implement a reverse search application for finding nearby restaurants.</li><li>Users can upload photos of food to learn about the history and where to buy it.</li></ul>
+  github: https://github.com/bryngo/TravelBudd
