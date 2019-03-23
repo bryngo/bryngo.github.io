@@ -11,7 +11,6 @@ image:
 ---
 
 
-
 ## Things to do
 1. Paintball
 2. Airsoft
@@ -20,7 +19,6 @@ image:
 5. Shoot more photos
     - build a photography portfolio
 6. See more concerts
-7. Be alive
 
 ## Places to go (travel)
 1. Iceland
