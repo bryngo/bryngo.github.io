@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Bryan Ngo
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Software Engineer"
+  bio: "i like games, photos, and videos. and food, can't forget the food."
   email:
   disqus-shortname:
   twitter: #username
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: bryngo
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: bryngo
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: bryngo.cpp
   lastfm: #username
   tumblr: #username
   pinterest: #username
