@@ -6,4 +6,4 @@
 
 - name: Travel Buddy
   descr: <b>Skills / Tools </b>- Python, Jinja<ul><li>Used the Google Vision, Google Maps, and Wikipedia API to implement a reverse search application for finding nearby restaurants.</li><li>Users can upload photos of food to learn about the history and where to buy it.</li></ul>
-  github: https://github.com/bryngo/TravelBudd
+  github: https://github.com/bryngo/TravelBuddy
