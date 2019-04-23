@@ -11,7 +11,11 @@ image:
 ---
 
 ## Currently Watching
+- Made in Abyss
+
 ## Wanting to Watch
+
+
 ## Already Watched
 #### 3 - Gatstu No Lion / 3 - Gatsu No Lion 2nd Season
 #### Gabriel Dropout
@@ -20,13 +24,13 @@ image:
 #### Yuru Camp
 #### Kono Subarashii Sekai Ni Shukufuku Wo! / Kono Subarashii Sekai Ni Shukufuku Wo! 2
 #### When the Promised Flower Blooms
-#### Your Lie in April 
+#### Your Lie in April
 #### SukaSuka
 #### Toradora!
 #### Kokoro Connect
 #### 5 Centimeters per Second
 #### Kotonoha No Niwa
-#### Madoka Magica 
+#### Madoka Magica
 #### Seishun Buta Yarou
 #### Goblin Slayer
 #### Iroduku: The World in Colors
