@@ -31,3 +31,8 @@ image:
 #### Goblin Slayer
 #### Iroduku: The World in Colors
 #### Oregairu / Oregairu 2nd Season
+#### BlendS
+#### Plastic Memories
+#### Noragami
+#### Re:Zero
+#### When the Promised Flower Blooms
