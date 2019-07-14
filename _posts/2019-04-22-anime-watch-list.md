@@ -35,16 +35,8 @@ image:
 #### Goblin Slayer
 #### Iroduku: The World in Colors
 #### Oregairu / Oregairu 2nd Season
-
-
-{% raw %}
-~~~html
-{% for career in site.data.index.careers %}
-      <div class="archive-title">
-          <div class="archive-year">
-              <strong>{{ career.date }}</strong><br> {{ career.job }} @ <a href="{{ career.link }}">{{ career.name }}</a>
-          </div>
-      </div>
-{% endfor %}
- ~~~
-{% endraw %}
+#### BlendS
+#### Plastic Memories
+#### Noragami
+#### Re:Zero
+#### When the Promised Flower Blooms
