@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Bryan Ngo
-  avatar: leonids-logo.png
+#  avatar: leonids-logo.png
   job: "Software Engineer"
   bio: "i like games, photos, and videos. and food, can't forget the food."
   email:

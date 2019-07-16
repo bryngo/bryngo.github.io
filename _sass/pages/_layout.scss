@@ -31,7 +31,7 @@
   }
   .author_name {
     display: block;
-    color: #F36170;
+    color: $white;
     font-size: 1.75em;
     text-transform: lowercase;
   }
@@ -46,6 +46,7 @@
   .author_bio {
     font-size: 90%;
     display: block;
+    color: $white;
   }
   @include media-query($medium-screen) {
     text-align: right;
@@ -63,10 +64,10 @@
       display: inline-block;
       margin-left: 1em;
       a.social-link-item {
-        color: $secondary;
+        color: white;
         &:hover,
         &:focus {
-          color: lighten($secondary, 14%);
+          color: darken($secondary, 75%);
         }
       }
     }
