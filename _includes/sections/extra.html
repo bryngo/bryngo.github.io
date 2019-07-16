@@ -1,0 +1,15 @@
+<h1><span data-i18n="skills.my_skills">Extracurricular</span></h1>
+
+{% for extra in site.data.index.extra %}
+<div class="row">
+    <div class="col">
+        <h2 style="margin: 0">{{ extra.org }}</h2>
+        <b>Position(s) - </b>{{ extra.positions }}
+        <br><br> <p style="margin: 0">{{ extra.descr }}</p>
+
+        {% if extra.link %}
+        <a href="{{ extra.link }}"><i class="fa fa-fw fa-link"></i>Site</a>
+        {% endif %}
+    </div>
+</div>
+{% endfor %}
