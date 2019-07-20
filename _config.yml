@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Bryan Ngo
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
@@ -39,7 +39,7 @@ owner:
   bio: "i like games, photos, and videos. and food, can't forget the food."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: BubblyBryan
   facebook: #username
   google:
     plus: #username
@@ -54,7 +54,7 @@ owner:
   linkedin: bryngo
   skype: #username
   xing: #username
-  instagram: bryngo.cpp
+  instagram: bryngo.me
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -62,7 +62,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: user-884716107
   weibo: #username
   flickr: #username
   500px: #username
