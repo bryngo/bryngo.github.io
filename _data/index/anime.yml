@@ -126,7 +126,7 @@
   status: finished
 
 - name: Mahou Shoujo Madoka★Magica Movie 3 Hangyaku no Monogatari
-  link: https://myanimelist.net/anime/11981/Mahou_Shoujo_Madoka%E2%98%85Magica_Movie_3__Hangyaku_no_Monogatari
+  link: https://myanimelist.net/anime/11981/Mahou_Shoujo_Madoka%E2%98%85Magica_Movie_3__Hangyaku_no_1gatari
   rate: 8
   fav: Homura
   description: Fantastic sequel to learn more about the characters and their motives.
@@ -188,3 +188,12 @@
   description: Very enjoyable plot! Definitely one of my favorites. I enjoyed how much thought went into all the character development. I recommend watching the anime, and then picking up the rest of the story by reading the web comic. I used mangadex.org to read from about chapter 95 until the end.
   status: finished
   flags: cried, sol
+
+- name: Bakemonogatari Series
+  link: https://myanimelist.net/anime/5081/Bakemonogatari
+  rate: 10
+  fav:
+  description: This series is like no other. The amount of questions answered doesn't keep up with the amount of questions formed. The characters have all such unique personalities that beautifully tie in together.
+  status: watching
+  flags:
+

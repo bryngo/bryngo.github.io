@@ -70,6 +70,9 @@ There's sites [like these](https://www.japan-guide.com/railpass/) that help you 
 I never got around to really trusting them. 
 
 # During The Trip
+
+From here on forward, I'll just outline some of my favorite things I've done in each city, along side some pictures!
+
 ## Osaka
 ## Kyoto
 ## Toyko
