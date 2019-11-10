@@ -3,8 +3,8 @@
 - name: Course Hero
   link: https://www.coursehero.com/
 #  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  date: Start September 2019
-  job: Incoming New Grad SWE
+  date: September 2019 - Present <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Software Engineer
 
 - name: Course Hero
   link: https://www.coursehero.com/
@@ -15,3 +15,8 @@
   link: https://www.sap.com/
   date: June 2017 - September 2017
   job: Biologics Drug Substance Manufacturing IT Intern
+
+- name: Old Navy
+  link: https://oldnavy.gap.com/
+  date: July 2015 - August 2015
+  job: Sales Associate

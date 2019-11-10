@@ -1,3 +1,7 @@
+- name: Rin
+  descr: <b>Skills / Tools </b>- Node, mongoDB, discord.js<ul><li>Used open source frameworks for creating text and speech bots in Discord.</li><li>Enabels server owners to have further flexibility in server moderation and entertainment tools.</li></ul>
+  github: https://github.com/bryngo/rin
+
 - name: Content-Aware Image Resizer
   descr: <b>Skills / Tools </b>- MATLAB<ul><li>Implemented a dynamic programming version of the content-aware image resizing technique described in Shai Avidan and Ariel Shamir’s SIGGRAPH 2007 paper, “Seam Carving for Content-Aware Image Resizing”</li><li>Source code available upon request</li></ul>
   skills: Matlab
