@@ -74,6 +74,36 @@ I never got around to really trusting them.
 From here on forward, I'll just outline some of my favorite things I've done in each city, along side some pictures!
 
 ## Osaka
+
+This isn't specific to Osaka, but I found that if you're having trouble finding some place quick and easy to eat, Japan 
+has plenty of restauraunts like [this](https://www.google.com/maps/place/Nakau+Senba-Chuoodori/@34.6815529,135.4986908,18z/data=!4m20!1m14!4m13!1m4!2m2!1d135.4956226!2d34.6790992!4e1!1m6!1m2!1s0x6000e71be43f18af:0x18ce9c02ab0465f7!2sSt.Marc+Cafe+Minamikyuhoji,+3-ch%C5%8Dme-6-13+Minamiky%C5%ABh%C5%8Djimachi,+Ch%C5%AB%C5%8D-ku,+Osaka,+541-0058!2m2!1d135.5013716!2d34.6789416!3e3!3m4!1s0x6000e71d0e21a81f:0xa285094ace3a6062!8m2!3d34.6815528!4d135.4986911).
+You pretty much walk in there, head straight to a machine to order your food (a lot of these are cash only), grab you food ticket, 
+hand it over to one of the workers, and you'll have your food in less than 5 minutes.
+
+### Osaka Castle
+
+
+![Osaka Castle](../../img/osaka-castle.jpg)
+
+If you decide to go here, I recommend checking out the [Osaka Museum of History](https://www.google.com/maps/place/Osaka+Museum+of+History/@34.6831966,135.519673,17z/data=!4m8!1m2!2m1!1sosaka+castle+museum!3m4!1s0x0:0xe984837dc97fe2ca!8m2!3d34.6826099!4d135.5208032).
+Here, you can buy tickets for the museum and the castle for a total of 900 yen. (400 museum + 500 castle admission). Of course,
+if you're not into museums don't do this, but keep in mind Osaka Castle is actually just another museum. 
+
+The view up top isn't too bad though. It started raining once we got up there, which was actually pretty relaxing.
+
+![Osaka Castle Top](../../img/osaka-castle-top.JPG)
+
+### Dontonbori / Shinsaibashi
+These are pretty much two massive shopping districts that are very close together (I accidentally walked into Shinsaibashi
+thinking I was still in Dontonbori). Shinsaibashi is more for clothes shopping, and Dontonbori is more for entertainment
+or food. It felt impossible to see everything in this area. There was always a giant sea of people. 
+
+![Okonomiyaki](../../img/okonomiyaki.jpg)
+
+![shinsaibashi](../../img/shinsaibashi.jpg)
+
+### 
+
 ## Kyoto
 ## Toyko
 ## Nara
