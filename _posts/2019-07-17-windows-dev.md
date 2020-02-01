@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Windows Developer Environment
-excerpt: "I still think macOS is better for this."
+excerpt: ""
 categories: [tech]
 comments: true
 image:
