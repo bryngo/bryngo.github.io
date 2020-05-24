@@ -102,7 +102,16 @@ or food. It felt impossible to see everything in this area. There was always a g
 
 ![shinsaibashi](../../img/shinsaibashi.jpg)
 
-### 
+### Shrines, shrines, shrines.
+I'll only say this once because you can find shrines in literally any city you go to. Many shrines have their own themes,
+such as the [Tsuyu Tenjisha shrine](https://www.osakastation.com/tsuyu-no-tenjinja-shrine-ohatsu-tenjin/). This shrine 
+in particular has many themes of love. 
+
+![tsuyutenjisha](../../img/tsuyutenjisha.jpg)
+
+Almost all shrines have a small store you can purchase lucky charms, or [Omamori](https://savvytokyo.com/japanese-lucky-charms-a-guide-to-omamori-for-the-new-year/).
+These serve as fantastic souvenirs since they usually come paried with wishes of great health, fortune, business, etc. 
+
 
 ## Kyoto
 ## Toyko

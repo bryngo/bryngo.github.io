@@ -19,11 +19,10 @@ These are the two things that you want to think about when investing in property
 **Cash Flow** refers to the net amount you, as the landlord, get per month after considering
 tenants and any other associated costs such as property tax or maintenance. 
 
-**Appreciation** refers to the risker game of investing in a property, with or without
-a position cash flow. If you, as the landlord, decides to focus 100% on appreciation,
-this may mean that you would have to pay out of pocket in addition to your tenants to
-keep up the costs of the property. 
-
+**Appreciation** refers to the risker method of investing in property. Here, you may have positive
+or negative cash flow. If you, as the landlord, decides to focus 100% on appreciation,
+it's possible that you would have to pay out of pocket in addition to anything you get from
+your tenants to keep up the costs of the property. 
 
 ### Should I go for cash flow or appreciation in the bay area?
 Looking into this.
