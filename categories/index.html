@@ -7,7 +7,9 @@ permalink: /categories/
 {% for cat in site.categories %}
   <div class="tag-group">
     {% capture cat_name %}{{ cat | first }}{% endcapture %}
-    <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
+    <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}
+      <small class="info-text-color">// {{ site.categories[cat_name] | size }} posts</small>
+    </h5>
     {% for post in site.categories[cat_name] %}
     <article class="tag-item">
       <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
