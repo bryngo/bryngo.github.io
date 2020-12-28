@@ -110,6 +110,45 @@ I didn't mess up any details there :) )._
 
 
 # Chapter 3 - The Truth About Ability and Accomplishment
+Here's a comparison of two lines of thought that I found pretty interesting.
+> We praised some of the students for their ability. They were told:
+> "Wow, you got [say] eight right. That's a really good score. You must
+> be smart at this." They were in the Adam Guettel _you're so talented_
+> position.
+>
+> pg. 71
+
+and the other:
+> We praised other students for their effort: "Wow, you got [say] eight
+> right. That's a really good score. You must have worked really hard."
+> They were not made to feel that they had some special gift; they were
+> praised for doing what it takes to succeed.
+>
+> pg. 72
+
+To give more context, a test was given to several students. In one
+group, praise was given to their "natural talent" as a cause for the high
+score that they got. In the other group, praise was given to the amount
+of effort the student put in to get their score.
+
+This scenario was really interesting to me because I could really recall
+similar feelings. I can't remember the specific examples of my life, but
+there were definitely times when I received praise for a skill
+I genuinely thought I didn't have. Instead of correcting the person
+giving the compliment, I hid my inexperience away and tried my best to
+avoid all situations that would bring my small lie to light.
+
+Thankfully, I can say I don't carry that characteristic with me anymore.
+It's dishonest to myself, and dishonest to others.
+
+The other point that Dweck derived from this statement was that kids being
+praised for their "natural talent" eventually drove kids into a fixed
+mindset. Like myself, they did everything they could to protect their
+praise. Whether it'd be avoiding all future tests, or lying about
+some inability to perform as normal. Such behavior also drives the fixed
+mindset. Such students don't want to put themselves in a position to
+expose their lack of knowledge, in feat that it would taint their praise.
+
 # Chapter 4 - Sports: The Mindset of a Champion
 # Chapter 5 - Business: Mindset and Leadership
 # Chapter 6 - Relationships: Mindsets in Love (Or Not)

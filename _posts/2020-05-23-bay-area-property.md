@@ -12,6 +12,7 @@ image:
 
 Currently reading: [Hack Your Wealth](https://hackyourwealth.com/house-hacking-san-francisco-bay-area)
 
+
 ### What is the difference between cash flow and appreciation?
 
 These are the two things that you want to think about when investing in property.
@@ -36,7 +37,7 @@ TL;DR, buy a bunch of units and rent it out to people so that you live without p
 [Details](https://www.californiataxdata.com/pdf/Prop13.pdf).
 
 ### What is a mortgage?
-It's basically a fancy word for financing a home. Don't meet your monthly mortgage payments?
+It's basically financing a home. Don't meet your monthly mortgage payments?
 Then you risk the lender taking your property. Of course, there's interest on this. There are many
 ways to lower this interest such as proving to the lender that you're a reliable person or providing a
 larger up-front payment.
@@ -58,3 +59,8 @@ reach this $200k starting point for property investment. Take stocks for example
 30% returns on something over 1 year. For $20k, that $6k returns. Not to mention you'll be
 continuously pumping money into the stock market. Really accelerating your growth here.
 (insert equation to estimate time to hit $200k goal here).
+
+### Useful Links
+- [How to buy a start home in the Bay](https://www.nerdwallet.com/blog/mortgages/6-tips-for-buying-a-starter-home-in-the-bay-area/)
+- [Buying a house in 2020 Bay Area](https://www.bpfund.com/how-to-buy-in-the-bay-area/)
+- [Complete guide? Really well done](https://zerodown.com/guide)
